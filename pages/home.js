@@ -17,16 +17,8 @@ const Home = () => {
         <Carousel />
       </section>
 
-      {/* Quick Links Section */}
-      <section className="quick-links text-center py-8">
-        <h2 className="text-2xl font-bold mb-4">Quick Links</h2>
-        <div className="flex justify-center space-x-4">
-          <a href="/about" className="text-blue-500 hover:underline">About Us</a>
-          <a href="/admissions" className="text-blue-500 hover:underline">Admissions</a>
-          <a href="/academics" className="text-blue-500 hover:underline">Academics</a>
-          <a href="/contact" className="text-blue-500 hover:underline">Contact Us</a>
-        </div>
-      </section>
+    
+      
     </div>
   );
 };

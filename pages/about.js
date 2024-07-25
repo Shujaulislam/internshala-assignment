@@ -36,7 +36,7 @@ const About = () => {
             height={150} 
             className="rounded-full mb-4"
           />
-        <h2 className="text-2xl font-semibold mb-2">Principal's Message</h2>
+        <h2 className="text-2xl font-semibold mb-2">Principals Message</h2>
           <p className="text-lg leading-relaxed ">
             At Springdale, we believe in nurturing the potential of every student and guiding them towards a successful future.
           </p>
